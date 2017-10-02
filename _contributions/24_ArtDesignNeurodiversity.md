@@ -35,7 +35,7 @@ create daily), photography, 3D, video and coding.
 
 ![Image](Images/24_ADN_Image4.jpg)
 
-*Tune In Tune Out and Dyspraxic Jewellery - Natasha Trotman – 2016*
+*Tune In Tune Out and Dyspraxic Jewellery - Natasha Trotman (MA, RCA) – 2016*
 
 “Tune In Tune Out” is a toolkit born out of Trotman's project Tangible Linguistics Statistics umbrella project. Focusing on creating an awareness tool, something that allows the users to experience the dyspraxic traits (such as coordination and/or motor difficulties for example), in this project Trotman shapes an intervention to foster empathy, agency and awareness concerning dyspraxia.
 
@@ -43,7 +43,7 @@ create daily), photography, 3D, video and coding.
 
 ![Image](Images/24_ADN_Image5.jpg)
 
-*Tune In, Fork Design / Dyspraxic Jewellery - Natasha Trotman – 2016*
+*Tune In, Fork Design / Dyspraxic Jewellery - Natasha Trotman (MA, RCA) – 2016*
 
 ### Sound Symbolism
 
