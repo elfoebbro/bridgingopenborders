@@ -11,8 +11,8 @@ All rights reserved to the author of this contribution.
 
 ![Image](Images/25_LifeDeathAnatomy.jpg)
 
-_Nina Sellars working on adipose tissue culture, for 'Fat Culture' project, SymbioticA, UWA, 2017.
-Photographers: Nina Sellars & Ionat Zurr_
+_Nina Sellars working on adipose tissue culture for her project, ‘Fat Culture’, while artist in residence at SymbioticA, UWA, 2017.
+Photographers: Nina Sellars & Ionat Zurr. This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body._
 
 
 **_Life_**
