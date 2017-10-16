@@ -46,5 +46,5 @@ Further, the act of reclassifying fat as an organ raises questions about the way
 <ol>
 <li id="fn1">Rosi Braidotti, _The Posthuman_ (Cambridge: Polity Press, 2013), 136<a href="#fnref1">↩</a>
 </li>
-<li id="fn2">Sahil K. Kapur and Adam J. Katz, “Multipotential Aspects of Adipose-Derived Stem Cells and Their Spheroids,” in Stem Cells in _Aesthetic Procedures: Art Science, and Critical Techniques_, ed. Franco Bassetto, Alberto Di Giuseppe and Melvin A. Shiffman (Berlin: Springer, 2014), 181.<a href="#fnref1">↩</a>
+<li id="fn2">Sahil K. Kapur and Adam J. Katz, “Multipotential Aspects of Adipose-Derived Stem Cells and Their Spheroids,” in Stem Cells in _Aesthetic Procedures: Art Science, and Critical Techniques_, ed. Franco Bassetto, Alberto Di Giuseppe and Melvin A. Shiffman (Berlin: Springer, 2014), 181.<a href="#fnref2">↩</a>
 </li>
