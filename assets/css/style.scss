@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-theme-slate";
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
