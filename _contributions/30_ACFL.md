@@ -15,6 +15,9 @@ This will be the second year we participate, together with our partner Ars Elect
 
 This year we have expanded our presentation of Austrian digital arts with a dedicated programme of events, projects and exhibitions across the fields of digital, electronic and sound art and experimental film. The Unconscious Archives Festival will feature a special Austrian arts focus and our in-house exhibition Emotion + the Tech(no)body presents Austrian and UK-based artists whose works consider our cultural and emotional attachment to data and the relationship of our bodies to technology. The exhibition features artists working across sound art, experimental film, software programming, laboratory culture, sculpture, ephemeral art, instrument building and post internet art. This season we invite you to join us in celebrating the best of digital and sound art from Austria. 
 
+Featured Artists:
+Leo Peschta, Davide Bevilacqua, prazlab, Irene Posch.
+
 www.acflondon.org 
 
 facebook.com/acflondon | twitter.com/ACF_London | instagram.com/@acf_london
